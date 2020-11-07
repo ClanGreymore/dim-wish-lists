@@ -79,6 +79,21 @@ dimwishlist:item=1216130969&perks=839105230,1968497646,2450788523,699525795
 dimwishlist:item=1216130969&perks=1482024992,1968497646,2450788523,699525795
 dimwishlist:item=1216130969&perks=1467527085,1968497646,2450788523,699525795
 
+// Death Adder
+//notes:GoogleAssistant (PvP): The go-to replacement for The Recluse from Season 12 onward. Overshadowed somewhat by 600rpm Auto Rifles, but by no means a poor choice. Lots of solid perk options in the fourth slot make this a tricky one to roll with. Recommended MW: Range > Stability > Handling.|tags:PvP
+dimwishlist:item=2742490609&perks=4090651448,3142289711,1359896290,706527188
+dimwishlist:item=2742490609&perks=3250034553,3142289711,1359896290,706527188
+dimwishlist:item=2742490609&perks=1482024992,3142289711,1359896290,706527188
+dimwishlist:item=2742490609&perks=4090651448,3142289711,1359896290,2846385770
+dimwishlist:item=2742490609&perks=3250034553,3142289711,1359896290,2846385770
+dimwishlist:item=2742490609&perks=1482024992,3142289711,1359896290,2846385770
+dimwishlist:item=2742490609&perks=4090651448,3142289711,1359896290,588594999
+dimwishlist:item=2742490609&perks=3250034553,3142289711,1359896290,588594999
+dimwishlist:item=2742490609&perks=1482024992,3142289711,1359896290,588594999
+dimwishlist:item=2742490609&perks=4090651448,3142289711,1359896290,699525795
+dimwishlist:item=2742490609&perks=3250034553,3142289711,1359896290,699525795
+dimwishlist:item=2742490609&perks=1482024992,3142289711,1359896290,699525795
+
 // Dire Promise
 //notes:GoogleAssistant (PvP): Top-tier hand cannon that should be in any PvP player's vault - a great replacement for Spare Rations beyond Season 12 (viable until Season 14). Steadyhand HCS is the ideal roll here, but Hitmark HCS is a solid option too. Recommended MW: Stability > Range > Handling.|tags:PvP
 dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770
