@@ -1,5 +1,5 @@
 title:Clan Greymore's PvP Wishlist
-description:Here's a collection of god/recommended rolls for PvP activity for the Clan Greymore community. Special thanks to Pure Phi Cohomology (Halo 3 Rat), Eekwynox and SirN0ahl0t (How?).
+description:Here's a collection of god/recommended rolls for PvP activity for the Clan Greymore community. Special thanks to Eekwynox, Pure Phi Cohomology (Halo 3 Rat), NoCo, SirN0ahl0t (How?) and Volux for roll consultation!
 
 // Astral Horizon
 //notes:GoogleAssistant (PvP): Top-tier shotgun, albeit with somewhat limited attachments. Sunsets in Season 14. Unlike others in the meta, it doesn't come with snapshot sights, but more than makes up for this with opening shot. Recommended MW: Range > Handling.|tags:PvP
