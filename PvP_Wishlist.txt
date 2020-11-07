@@ -1,0 +1,108 @@
+title:Clan Greymore's PvP Wishlist
+description:Here's a collection of god/recommended rolls for PvP activity for the Clan Greymore community. Special thanks to Pure Phi Cohomology (Halo 3 Rat), Eekwynox and SirN0ahl0t (How?).
+
+// Astral Horizon
+//notes:GoogleAssistant (PvP): Top-tier shotgun, albeit with somewhat limited attachments. Sunsets in Season 14. Unlike others in the meta, it doesn't come with snapshot sights, but more than makes up for this with opening shot. Recommended MW: Range > Handling.|tags:PvP
+dimwishlist:item=1697682876&perks=1047830412,3142289711,706527188,47981717
+dimwishlist:item=1697682876&perks=1482024992,3142289711,706527188,47981717
+dimwishlist:item=1697682876&perks=1332244541,3142289711,706527188,47981717
+dimwishlist:item=1697682876&perks=1047830412,679225683,706527188,47981717
+dimwishlist:item=1697682876&perks=1482024992,679225683,706527188,47981717
+dimwishlist:item=1697682876&perks=1332244541,679225683,706527188,47981717
+dimwishlist:item=1697682876&perks=1047830412,3142289711,3161816588,47981717
+dimwishlist:item=1697682876&perks=1482024992,3142289711,3161816588,47981717
+dimwishlist:item=1697682876&perks=1332244541,3142289711,3161816588,47981717
+dimwishlist:item=1697682876&perks=1047830412,679225683,3161816588,47981717
+dimwishlist:item=1697682876&perks=1482024992,679225683,3161816588,47981717
+dimwishlist:item=1697682876&perks=1332244541,679225683,3161816588,47981717
+
+// Beloved
+//notes:GoogleAssistant (PvP): Currently a meta-defining sniper, although being sunset at the end of Season 12. God-roll is typically Quickdraw/Snapshot/Range MW. As it stands, objectively bested only by the Revoker. Recommended MW: Range > Handling > Stability.|tags:PvP
+dimwishlist:item=4190932264&perks=3250034553,3142289711,957782887,706527188
+dimwishlist:item=4190932264&perks=1482024992,3142289711,957782887,706527188
+dimwishlist:item=4190932264&perks=3250034553,3142289711,3513791699,706527188
+dimwishlist:item=4190932264&perks=1482024992,3142289711,3513791699,706527188
+dimwishlist:item=4190932264&perks=3250034553,3142289711,957782887,2551157718
+dimwishlist:item=4190932264&perks=1482024992,3142289711,957782887,2551157718
+dimwishlist:item=4190932264&perks=3250034553,3142289711,3513791699,2551157718
+dimwishlist:item=4190932264&perks=1482024992,3142289711,3513791699,2551157718
+dimwishlist:item=4190932264&perks=3250034553,3142289711,957782887,588594999
+dimwishlist:item=4190932264&perks=1482024992,3142289711,957782887,588594999
+dimwishlist:item=4190932264&perks=3250034553,3142289711,3513791699,588594999
+dimwishlist:item=4190932264&perks=1482024992,3142289711,3513791699,588594999
+
+// Dire Promise
+//notes:GoogleAssistant (PvP): Top-tier hand cannon that should be in any PvP player's vault - a great replacement for Spare Rations beyond Season 12 (viable until Season 14). Steadyhand HCS is the ideal roll here, but Hitmark HCS is a solid option too. Recommended MW: Stability > Range > Handling.|tags:PvP
+dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770
+dimwishlist:item=2742838701&perks=1926090093,1885400500,47981717,2846385770
+dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,2846385770
+dimwishlist:item=2742838701&perks=1926090093,1885400500,957782887,2846385770
+
+// Gnawing Hunger
+//notes:GoogleAssistant (PvP): Current 600rpm auto meta along with The Summoner - it's the most widely used weapon in PvP at the moment (Nov. 2020). Only run this with Rampage if you're top-tier/aggressive and can chain kills, fast. Recommended MW: Range > Stability.|tags:PvP
+dimwishlist:item=821154603&perks=1467527085,3142289711,1890422124,1015611457
+dimwishlist:item=821154603&perks=3250034553,3142289711,1890422124,1015611457
+dimwishlist:item=821154603&perks=1482024992,3142289711,1890422124,1015611457
+dimwishlist:item=821154603&perks=1467527085,3142289711,1890422124,3425386926
+dimwishlist:item=821154603&perks=3250034553,3142289711,1890422124,3425386926
+dimwishlist:item=821154603&perks=1482024992,3142289711,1890422124,3425386926
+
+// Mindbender's Ambition
+//notes:GoogleAssistant (PvP): Yet another shotgun defining the current meta, although it sunsets at 1060 power (Season 12). Ideal barrel is typically Full Choke, giving it a 9m efficient kill range. Similar to others in this archetype, quickdraw/snapshot are the go-to, with slideshot available if that's your thing. Recommended MW: Range > Handling.|tags:PvP
+dimwishlist:item=4117693024&perks=1482024992,3142289711,3161816588,706527188
+dimwishlist:item=4117693024&perks=1332244541,3142289711,3161816588,706527188
+dimwishlist:item=4117693024&perks=1047830412,3142289711,3161816588,706527188
+dimwishlist:item=4117693024&perks=1482024992,3142289711,957782887,706527188
+dimwishlist:item=4117693024&perks=1332244541,3142289711,957782887,706527188
+dimwishlist:item=4117693024&perks=1047830412,3142289711,957782887,706527188
+
+// Seventh Seraph CQC-12
+//notes:GoogleAssistant (PvP): An exciting PvP shotgun viable through until the end of Season 13, particularly swift due to its lightweight frame - even moreso with quickdraw. Slideshot highly viable if that's your jam. Recommended MW: Range > Handling.|tags:pvp
+dimwishlist:item=1821724780&perks=1332244541,3142289711,706527188,957782887
+dimwishlist:item=1821724780&perks=1332244541,3142289711,3161816588,957782887
+
+// Spare Rations
+//notes:GoogleAssistant (PvP): A meta-defining 150rpm hand cannon, along with Dire Promise. Ideal with Hammer-Forged Rifling and Ricochet Rounds. Wide variety of possible rolls makes it a great all-rounder. Recommended MW: Stability > Range > Handling.|tags:PvP
+dimwishlist:item=3116356268&perks=3250034553,1885400500,247725512,1015611457
+dimwishlist:item=3116356268&perks=1482024992,1885400500,247725512,1015611457
+dimwishlist:item=3116356268&perks=3250034553,1561002382,247725512,1015611457
+dimwishlist:item=3116356268&perks=1482024992,1561002382,247725512,1015611457
+dimwishlist:item=3116356268&perks=3250034553,1885400500,957782887,1015611457
+dimwishlist:item=3116356268&perks=1482024992,1885400500,957782887,1015611457
+dimwishlist:item=3116356268&perks=3250034553,1561002382,957782887,1015611457
+dimwishlist:item=3116356268&perks=1482024992,1561002382,957782887,1015611457
+dimwishlist:item=3116356268&perks=3250034553,1885400500,247725512,2846385770
+dimwishlist:item=3116356268&perks=1482024992,1885400500,247725512,2846385770
+dimwishlist:item=3116356268&perks=3250034553,1561002382,247725512,2846385770
+dimwishlist:item=3116356268&perks=1482024992,1561002382,247725512,2846385770
+dimwishlist:item=3116356268&perks=3250034553,1885400500,957782887,2846385770
+dimwishlist:item=3116356268&perks=1482024992,1885400500,957782887,2846385770
+dimwishlist:item=3116356268&perks=3250034553,1561002382,957782887,2846385770
+dimwishlist:item=3116356268&perks=1482024992,1561002382,957782887,2846385770
+
+// The Summoner
+//notes:GoogleAssistant (??? PvP ???): Arguably the peak of the 600rpm Auto Rifle meta, sunsets in Season 14. Has some unbelievable roll possibilities, with a wide array of choice. Like Gnawing Hunger, only bother with Rampage if you're aggressive or top-tier. Oft-considered god roll is Extended Barrel/Ricochet Rounds/DSR/Rangefinder. Get almost any roll on this gun, and don't look back. Recommended MW: Range > Stability.|tags:PvP
+dimwishlist:item=1907698332&perks=3250034553,1885400500,1359896290,2846385770
+dimwishlist:item=1907698332&perks=1482024992,1885400500,1359896290,2846385770
+dimwishlist:item=1907698332&perks=1467527085,1885400500,1359896290,2846385770
+dimwishlist:item=1907698332&perks=3250034553,1561002382,1359896290,2846385770
+dimwishlist:item=1907698332&perks=1482024992,1561002382,1359896290,2846385770
+dimwishlist:item=1907698332&perks=1467527085,1561002382,1359896290,2846385770
+dimwishlist:item=1907698332&perks=3250034553,1885400500,588594999,2846385770
+dimwishlist:item=1907698332&perks=1482024992,1885400500,588594999,2846385770
+dimwishlist:item=1907698332&perks=1467527085,1885400500,588594999,2846385770
+dimwishlist:item=1907698332&perks=3250034553,1561002382,588594999,2846385770
+dimwishlist:item=1907698332&perks=1482024992,1561002382,588594999,2846385770
+dimwishlist:item=1907698332&perks=1467527085,1561002382,588594999,2846385770
+dimwishlist:item=1907698332&perks=3250034553,1885400500,1359896290,3425386926
+dimwishlist:item=1907698332&perks=1482024992,1885400500,1359896290,3425386926
+dimwishlist:item=1907698332&perks=1467527085,1885400500,1359896290,3425386926
+dimwishlist:item=1907698332&perks=3250034553,1561002382,1359896290,3425386926
+dimwishlist:item=1907698332&perks=1482024992,1561002382,1359896290,3425386926
+dimwishlist:item=1907698332&perks=1467527085,1561002382,1359896290,3425386926
+dimwishlist:item=1907698332&perks=3250034553,1885400500,588594999,3425386926
+dimwishlist:item=1907698332&perks=1482024992,1885400500,588594999,3425386926
+dimwishlist:item=1907698332&perks=1467527085,1885400500,588594999,3425386926
+dimwishlist:item=1907698332&perks=3250034553,1561002382,588594999,3425386926
+dimwishlist:item=1907698332&perks=1482024992,1561002382,588594999,3425386926
+dimwishlist:item=1907698332&perks=1467527085,1561002382,588594999,3425386926
