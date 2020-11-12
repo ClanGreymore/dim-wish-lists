@@ -1,6 +1,10 @@
 title:Clan Greymore's PvP Wishlist
 description:Here's a collection of god/recommended rolls for PvP activity for the Clan Greymore community. Special thanks to Eekwynox, Pure Phi Cohomology (Halo 3 Rat), NoCo, SirN0ahl0t (How?) and Volux for roll consultation!
 
+// Adored
+//notes:GoogleAssistant (??? PvP ???): The Beyond Light replacement for the Beloved, this sniper is very similar to its predecessor - albeit with a slightly higher zoomed scope, and otherwise identical hidden stats. Sunsets in S16. Recommended MW: Range > Handling > Stability.|tags:PvP
+dimwishlist:item=4184808992&perks=3250034553,3142289711,2450788523,957782887
+
 // Astral Horizon
 //notes:GoogleAssistant (PvP): Top-tier shotgun, albeit with somewhat limited attachments. Sunsets in Season 14. Unlike others in the meta, it doesn't come with snapshot sights, but more than makes up for this with opening shot. Recommended MW: Range > Handling.|tags:PvP
 dimwishlist:item=1697682876&perks=1047830412,3142289711,706527188,47981717
@@ -17,7 +21,7 @@ dimwishlist:item=1697682876&perks=1482024992,679225683,3161816588,47981717
 dimwishlist:item=1697682876&perks=1332244541,679225683,3161816588,47981717
 
 // Beloved
-//notes:GoogleAssistant (PvP): Currently a meta-defining sniper, although being sunset at the end of Season 12. God-roll is typically Quickdraw/Snapshot/Range MW. As it stands, objectively bested only by the Revoker. Recommended MW: Range > Handling > Stability.|tags:PvP
+//notes:GoogleAssistant (PvP): Previously a meta-defining sniper, which was sunset in Season 12. God-roll is typically Quickdraw/Snapshot/Range MW. A meta-defining sniper of its time. Recommended MW: Range > Handling > Stability.|tags:PvP
 dimwishlist:item=4190932264&perks=3250034553,3142289711,957782887,706527188
 dimwishlist:item=4190932264&perks=1482024992,3142289711,957782887,706527188
 dimwishlist:item=4190932264&perks=3250034553,3142289711,3513791699,706527188
