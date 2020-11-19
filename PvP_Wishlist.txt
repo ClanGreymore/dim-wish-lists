@@ -113,6 +113,19 @@ dimwishlist:item=2742838701&perks=1926090093,1968497646,957782887,2846385770
 dimwishlist:item=2742838701&perks=1926090095,1561002382,957782887,2846385770
 dimwishlist:item=2742838701&perks=1926090093,1561002382,957782887,2846385770
 
+// Eye of Sol
+//notes:GoogleAssistant (PvP): The only 90rpm adaptive-frame sniper that can OHK guardians in their super with Vorpal Weapon and without Boxed Breathing. Very similar stats to Adored. Handling MW is ideal to make up for lack of quickdraw. Recommended MW: Handling > Range.|tags:PvP
+dimwishlist:item=3164743584&perks=3250034553,3142289711,957782887,47981717
+dimwishlist:item=3164743584&perks=4090651448,3142289711,957782887,47981717
+dimwishlist:item=3164743584&perks=1482024992,3142289711,957782887,47981717
+dimwishlist:item=3164743584&perks=1840239774,3142289711,957782887,47981717
+dimwishlist:item=3164743584&perks=839105230,3142289711,957782887,47981717
+dimwishlist:item=3164743584&perks=3250034553,3142289711,957782887,1546637391
+dimwishlist:item=3164743584&perks=4090651448,3142289711,957782887,1546637391
+dimwishlist:item=3164743584&perks=1482024992,3142289711,957782887,1546637391
+dimwishlist:item=3164743584&perks=1840239774,3142289711,957782887,1546637391
+dimwishlist:item=3164743584&perks=839105230,3142289711,957782887,1546637391
+
 // The Forward Path
 //notes:GoogleAssistant (PvP): A leading choice in the first-slot 600rpm Auto Rifle archetype, with solid range and stability. Sunsets in Season 15. Accurized Rounds and DSR are must-haves, with Iron Grip or Tap The Trigger leading the final slot. Recommended MW: Range > Stability > Handling.|tags:PvP
 dimwishlist:item=1690783811&perks=2405638014,3142289711,1359896290,11551321
