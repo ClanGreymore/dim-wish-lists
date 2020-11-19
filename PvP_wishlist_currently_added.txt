@@ -1,4 +1,4 @@
-Currently, we've documented 196 rolls across 18 weapons.
+Currently, we've documented 232 rolls across 19 weapons.
 
 Adored
 Astral Horizon
@@ -9,6 +9,7 @@ Dire Promise
 Eye of Sol
 The Forward Path
 Gnawing Hunger
+Last Perdition
 Long Shadow
 Mindbender's Ambition
 The Old Fashioned
