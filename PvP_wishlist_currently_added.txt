@@ -1,4 +1,4 @@
-Currently, we've documented 149 rolls across 13 weapons.
+Currently, we've documented 185 rolls across 16 weapons.
 
 Adored
 Astral Horizon
@@ -6,10 +6,13 @@ Beloved
 Cold Denial
 Death Adder
 Dire Promise
+Eye of Sol
 The Forward Path
 Gnawing Hunger
 Mindbender's Ambition
+The Old Fashioned
 Seventh Seraph CQC-12
 Spare Rations
 The Summoner
 The Supremacy
+True Prophecy
