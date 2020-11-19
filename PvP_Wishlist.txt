@@ -99,11 +99,19 @@ dimwishlist:item=2742490609&perks=3250034553,3142289711,1359896290,699525795
 dimwishlist:item=2742490609&perks=1482024992,3142289711,1359896290,699525795
 
 // Dire Promise
-//notes:GoogleAssistant (PvP): Top-tier hand cannon that should be in any PvP player's vault - a great replacement for Spare Rations beyond Season 12 (viable until Season 14). Steadyhand HCS is the ideal roll here, but Hitmark HCS is a solid option too. Recommended MW: Stability > Range > Handling.|tags:PvP
+//notes:GoogleAssistant (PvP): Top-tier hand cannon that should be in any PvP player's vault - a great replacement for Spare Rations beyond Season 12 (viable until Season 14). Steadyhand HCS is the ideal general roll here, but Hitmark HCS is a solid option when combined with Ricochet Rounds. Recommended MW: Stability > Range > Handling.|tags:PvP
 dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770
 dimwishlist:item=2742838701&perks=1926090093,1885400500,47981717,2846385770
+dimwishlist:item=2742838701&perks=1926090095,1968497646,47981717,2846385770
+dimwishlist:item=2742838701&perks=1926090093,1968497646,47981717,2846385770
+dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,2846385770
+dimwishlist:item=2742838701&perks=1926090093,1561002382,47981717,2846385770
 dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,2846385770
 dimwishlist:item=2742838701&perks=1926090093,1885400500,957782887,2846385770
+dimwishlist:item=2742838701&perks=1926090095,1968497646,957782887,2846385770
+dimwishlist:item=2742838701&perks=1926090093,1968497646,957782887,2846385770
+dimwishlist:item=2742838701&perks=1926090095,1561002382,957782887,2846385770
+dimwishlist:item=2742838701&perks=1926090093,1561002382,957782887,2846385770
 
 // The Forward Path
 //notes:GoogleAssistant (PvP): A leading choice in the first-slot 600rpm Auto Rifle archetype, with solid range and stability. Sunsets in Season 15. Accurized Rounds and DSR are must-haves, with Iron Grip or Tap The Trigger leading the final slot. Recommended MW: Range > Stability > Handling.|tags:PvP
