@@ -1,4 +1,4 @@
-Currently, we've documented 185 rolls across 16 weapons.
+Currently, we've documented 193 rolls across 17 weapons.
 
 Adored
 Astral Horizon
@@ -16,3 +16,4 @@ Spare Rations
 The Summoner
 The Supremacy
 True Prophecy
+Xenoclast IV
