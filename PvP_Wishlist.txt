@@ -2,7 +2,7 @@ title:Clan Greymore's PvP Wishlist
 description:Here's a collection of god/recommended rolls for PvP activity for the Clan Greymore community. Special thanks to Eekwynox, Pure Phi Cohomology (Halo 3 Rat), NoCo, SirN0ahl0t (How?) and Volux for roll consultation!
 
 // Adored
-//notes:GoogleAssistant (??? PvP ???): The Beyond Light replacement for the Beloved, this sniper is very similar to its predecessor - albeit with a slightly higher zoomed scope, and otherwise identical hidden stats. Sunsets in S16. Recommended MW: Range > Handling > Stability.|tags:PvP
+//notes:GoogleAssistant (PvP): The Beyond Light replacement for the Beloved, this sniper is very similar to its predecessor - albeit with a slightly higher zoomed scope, and otherwise identical hidden stats. Sunsets in S16. Recommended MW: Range > Handling > Stability.|tags:PvP
 dimwishlist:item=4184808992&perks=3250034553,3142289711,2450788523,957782887
 
 // Astral Horizon
@@ -153,6 +153,18 @@ dimwishlist:item=4117693024&perks=1482024992,3142289711,957782887,706527188
 dimwishlist:item=4117693024&perks=1332244541,3142289711,957782887,706527188
 dimwishlist:item=4117693024&perks=1047830412,3142289711,957782887,706527188
 
+// The Old Fashioned
+//notes:GoogleAssistant (PvP): Solid hand cannon with some pretty cool options, although it's somewhat eclipsed by Dire Promise. Explosive Payload is good fun for flinching everyone to the moon. Recommended MW: Range > Stability > Handling.|tags:PvP
+dimwishlist:item=3569802112&perks=1926090095,3142289711,706527188,1015611457
+dimwishlist:item=3569802112&perks=1926090094,3142289711,706527188,1015611457
+dimwishlist:item=3569802112&perks=1926090094,3142289711,706527188,1015611457
+dimwishlist:item=3569802112&perks=1926090095,3142289711,706527188,957782887
+dimwishlist:item=3569802112&perks=1926090094,3142289711,706527188,957782887
+dimwishlist:item=3569802112&perks=1926090094,3142289711,706527188,957782887
+dimwishlist:item=3569802112&perks=1926090095,3142289711,706527188,3038247973
+dimwishlist:item=3569802112&perks=1926090094,3142289711,706527188,3038247973
+dimwishlist:item=3569802112&perks=1926090094,3142289711,706527188,3038247973
+
 // Seventh Seraph CQC-12
 //notes:GoogleAssistant (PvP): An exciting PvP shotgun viable through until the end of Season 13, particularly swift due to its lightweight frame - even moreso with quickdraw. Slideshot highly viable if that's your jam. Recommended MW: Range > Handling.|tags:pvp
 dimwishlist:item=1821724780&perks=1332244541,3142289711,706527188,957782887
@@ -178,7 +190,7 @@ dimwishlist:item=3116356268&perks=3250034553,1561002382,957782887,2846385770
 dimwishlist:item=3116356268&perks=1482024992,1561002382,957782887,2846385770
 
 // The Summoner
-//notes:GoogleAssistant (??? PvP ???): Arguably the peak of the 600rpm Auto Rifle meta, sunsets in Season 14. Has some unbelievable roll possibilities, with a wide array of choice. Like Gnawing Hunger, only bother with Rampage if you're aggressive or top-tier. Oft-considered god roll is Extended Barrel/Ricochet Rounds/DSR/Rangefinder. Get almost any roll on this gun, and don't look back. Recommended MW: Range > Stability.|tags:PvP
+//notes:GoogleAssistant (PvP): Arguably the peak of the 600rpm Auto Rifle meta, sunsets in Season 14. Has some unbelievable roll possibilities, with a wide array of choice. Like Gnawing Hunger, only bother with Rampage if you're aggressive or top-tier. Oft-considered god roll is Extended Barrel/Ricochet Rounds/DSR/Rangefinder. Get almost any roll on this gun, and don't look back. Recommended MW: Range > Stability.|tags:PvP
 dimwishlist:item=1907698332&perks=3250034553,1885400500,1359896290,2846385770
 dimwishlist:item=1907698332&perks=1482024992,1885400500,1359896290,2846385770
 dimwishlist:item=1907698332&perks=1467527085,1885400500,1359896290,2846385770
