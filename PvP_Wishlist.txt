@@ -144,6 +144,12 @@ dimwishlist:item=821154603&perks=1467527085,3142289711,1890422124,3425386926
 dimwishlist:item=821154603&perks=3250034553,3142289711,1890422124,3425386926
 dimwishlist:item=821154603&perks=1482024992,3142289711,1890422124,3425386926
 
+// Long Shadow
+//notes:GoogleAssistant (PvP): A somewhat lacking Sniper in the current meta, albeit with a decent available selection of perks and a lower zoom than some. Poor aim assistance compared to other options. Don't go out of your way to use this one. Recommended MW: Range > Handling > Stability.|tags:PvP
+dimwishlist:item=3745990145&perks=893526894,3142289711,957782887,588594999
+dimwishlist:item=3745990145&perks=893526895,3142289711,957782887,588594999
+dimwishlist:item=3745990145&perks=893526892,3142289711,957782887,588594999
+
 // Mindbender's Ambition
 //notes:GoogleAssistant (PvP): Yet another shotgun defining the current meta, although it sunsets at 1060 power (Season 12). Ideal barrel is typically Full Choke, giving it a 9m efficient kill range. Similar to others in this archetype, quickdraw/snapshot are the go-to, with slideshot available if that's your thing. Recommended MW: Range > Handling.|tags:PvP
 dimwishlist:item=4117693024&perks=1482024992,3142289711,3161816588,706527188
