@@ -1,4 +1,4 @@
-Currently, we've documented 376 rolls across 21 weapons.
+Currently, we've documented 382 rolls across 22 weapons.
 
 PvP:
 
@@ -15,6 +15,7 @@ Last Perdition
 Long Shadow
 Mindbender's Ambition
 The Old Fashioned
+Omniscient Eye
 Seventh Seraph CQC-12
 Spare Rations
 Stars in Shadow
