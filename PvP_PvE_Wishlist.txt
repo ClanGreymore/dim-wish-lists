@@ -1,5 +1,5 @@
-title:Clan Greymore's PvP Wishlist
-description:Here's a collection of god/recommended rolls for PvP activity for the Clan Greymore community. Special thanks to Eekwynox, Pure Phi Cohomology (Halo 3 Rat), NoCo, SirN0ahl0t (How?) and Volux for roll consultation!
+title:Clan Greymore's PvP/PvE Wishlist
+description:Here's a collection of god/recommended rolls for PvP and PvE activity for the Clan Greymore community. Special thanks to Eekwynox, Pure Phi Cohomology (Halo 3 Rat), NoCo, SirN0ahl0t (How?) and Volux for roll consultation!
 
 // Adored
 //notes:GoogleAssistant (PvP): The Beyond Light replacement for the Beloved, this sniper is very similar to its predecessor - albeit with a slightly higher zoomed scope, and otherwise identical hidden stats. Sunsets in S16. Recommended MW: Range > Handling > Stability.|tags:PvP
