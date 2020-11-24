@@ -5,6 +5,33 @@ description:Here's a collection of god/recommended rolls for PvP activity for th
 //notes:GoogleAssistant (PvP): The Beyond Light replacement for the Beloved, this sniper is very similar to its predecessor - albeit with a slightly higher zoomed scope, and otherwise identical hidden stats. Sunsets in S16. Recommended MW: Range > Handling > Stability.|tags:PvP
 dimwishlist:item=4184808992&perks=3250034553,3142289711,2450788523,957782887
 
+// Arctic Haze
+//notes:Halo 3 Rat (PvE): One of two solar auto rifles as of season 12. Reasonably low recoil, and high ammo capacity makes Thresh a solid choice, and gun handles very well with Killing Wind active. Very easy to farm good rolls.|tags:PvE
+dimwishlist:item=20935540&perks=4090651448,3142289711,2450788523,2726471870
+dimwishlist:item=20935540&perks=3250034553,3142289711,2450788523,2726471870
+dimwishlist:item=20935540&perks=1482024992,3142289711,2450788523,2726471870
+dimwishlist:item=20935540&perks=4090651448,3177308360,2450788523,2726471870
+dimwishlist:item=20935540&perks=3250034553,3177308360,2450788523,2726471870
+dimwishlist:item=20935540&perks=1482024992,3177308360,2450788523,2726471870
+dimwishlist:item=20935540&perks=4090651448,3142289711,1820235745,2726471870
+dimwishlist:item=20935540&perks=3250034553,3142289711,1820235745,2726471870
+dimwishlist:item=20935540&perks=1482024992,3142289711,1820235745,2726471870
+dimwishlist:item=20935540&perks=4090651448,3177308360,1820235745,2726471870
+dimwishlist:item=20935540&perks=3250034553,3177308360,1820235745,2726471870
+dimwishlist:item=20935540&perks=1482024992,3177308360,1820235745,2726471870
+dimwishlist:item=20935540&perks=4090651448,3142289711,2450788523,3108830275
+dimwishlist:item=20935540&perks=3250034553,3142289711,2450788523,3108830275
+dimwishlist:item=20935540&perks=1482024992,3142289711,2450788523,3108830275
+dimwishlist:item=20935540&perks=4090651448,3177308360,2450788523,3108830275
+dimwishlist:item=20935540&perks=3250034553,3177308360,2450788523,3108830275
+dimwishlist:item=20935540&perks=1482024992,3177308360,2450788523,3108830275
+dimwishlist:item=20935540&perks=4090651448,3142289711,1820235745,3108830275
+dimwishlist:item=20935540&perks=3250034553,3142289711,1820235745,3108830275
+dimwishlist:item=20935540&perks=1482024992,3142289711,1820235745,3108830275
+dimwishlist:item=20935540&perks=4090651448,3177308360,1820235745,3108830275
+dimwishlist:item=20935540&perks=3250034553,3177308360,1820235745,3108830275
+dimwishlist:item=20935540&perks=1482024992,3177308360,1820235745,3108830275
+
 // Astral Horizon
 //notes:GoogleAssistant (PvP): Top-tier shotgun, albeit with somewhat limited attachments. Sunsets in Season 14. Unlike others in the meta, it doesn't come with snapshot sights, but more than makes up for this with opening shot. Recommended MW: Range > Handling.|tags:PvP
 dimwishlist:item=1697682876&perks=1047830412,3142289711,706527188,47981717
@@ -145,7 +172,7 @@ dimwishlist:item=821154603&perks=3250034553,3142289711,1890422124,3425386926
 dimwishlist:item=821154603&perks=1482024992,3142289711,1890422124,3425386926
 
 // Last Perdition
-//notes:GoogleAssistant (??? PvP ???): An interesting pule rifle, highly competitive in the S12 meta. It's not the strongest of its archetype, but makes up for this with an outstanding perk pool and SIX highly viable scopes for PvP. Easy to get a solid roll. Recommended MW: Range > Stability > Handling.|tags:PvP
+//notes:GoogleAssistant (PvP): An interesting pule rifle, highly competitive in the S12 meta. It's not the strongest of its archetype, but makes up for this with an outstanding perk pool and SIX highly viable scopes for PvP. Easy to get a solid roll. Recommended MW: Range > Stability > Handling.|tags:PvP
 dimwishlist:item=188882152&perks=360593483,3142289711,2846385770,957782887
 dimwishlist:item=188882152&perks=360593482,3142289711,2846385770,957782887
 dimwishlist:item=188882152&perks=360593481,3142289711,2846385770,957782887
