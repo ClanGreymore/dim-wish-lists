@@ -1,7 +1,8 @@
-Currently, we've documented 256 rolls across 20 weapons.
+Currently, we've documented 376 rolls across 21 weapons.
+
+PvP:
 
 Adored
-Arctic Haze
 Astral Horizon
 Beloved
 Cold Denial
@@ -16,7 +17,11 @@ Mindbender's Ambition
 The Old Fashioned
 Seventh Seraph CQC-12
 Spare Rations
+Stars in Shadow
 The Summoner
 The Supremacy
 True Prophecy
 Xenoclast IV
+
+PvE:
+Arctic Haze
