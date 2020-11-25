@@ -1,4 +1,4 @@
-Currently, we've documented 472 rolls across 26 weapons.
+Currently, we've documented 532 rolls across 27 weapons.
 
 PvP:
 
@@ -29,4 +29,5 @@ PvE:
 Arctic Haze
 Falling Guillotine
 Friction Fire
+Gnawing Hunger
 Succession
