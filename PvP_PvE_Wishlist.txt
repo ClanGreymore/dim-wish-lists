@@ -234,6 +234,21 @@ dimwishlist:item=821154603&perks=1467527085,3142289711,1890422124,3425386926
 dimwishlist:item=821154603&perks=3250034553,3142289711,1890422124,3425386926
 dimwishlist:item=821154603&perks=1482024992,3142289711,1890422124,3425386926
 
+// Heritage
+//notes:GoogleAssistant (PvP): First-slot slug shotgun from the DSC raid. A large reason for it's greatness is the versatility allowed by having a non-exotic slug in first slot. Semi-decent perk pool for PvP, has enough range on it to kill efficiently. More versatile than Chaperone. Recommended MW: Range > Handling > Reload Speed.|tags:PvP
+dimwishlist:item=4248569242&perks=4090651448,3142289711,3161816588,957782887
+dimwishlist:item=4248569242&perks=3250034553,3142289711,3161816588,957782887
+dimwishlist:item=4248569242&perks=1482024992,3142289711,3161816588,957782887
+dimwishlist:item=4248569242&perks=4090651448,679225683,3161816588,957782887
+dimwishlist:item=4248569242&perks=3250034553,679225683,3161816588,957782887
+dimwishlist:item=4248569242&perks=1482024992,679225683,3161816588,957782887
+dimwishlist:item=4248569242&perks=4090651448,3142289711,1866048759,957782887
+dimwishlist:item=4248569242&perks=3250034553,3142289711,1866048759,957782887
+dimwishlist:item=4248569242&perks=1482024992,3142289711,1866048759,957782887
+dimwishlist:item=4248569242&perks=4090651448,679225683,1866048759,957782887
+dimwishlist:item=4248569242&perks=3250034553,679225683,1866048759,957782887
+dimwishlist:item=4248569242&perks=1482024992,679225683,1866048759,957782887
+
 // Last Perdition
 //notes:GoogleAssistant (PvP): An interesting pule rifle, highly competitive in the S12 meta. It's not the strongest of its archetype, but makes up for this with an outstanding perk pool and SIX highly viable scopes for PvP. Easy to get a solid roll. Recommended MW: Range > Stability > Handling.|tags:PvP
 dimwishlist:item=188882152&perks=360593483,3142289711,2846385770,957782887
