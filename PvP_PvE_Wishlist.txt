@@ -165,6 +165,19 @@ dimwishlist:item=3164743584&perks=1482024992,3142289711,957782887,1546637391
 dimwishlist:item=3164743584&perks=1840239774,3142289711,957782887,1546637391
 dimwishlist:item=3164743584&perks=839105230,3142289711,957782887,1546637391
 
+// Falling Guillotine
+//notes:GoogleAssistant (PvE): The one-sword-fits-all. One of the most solid PvE DPS options in the game; a long-standing favourite for many activities. Jagged edge is a must, as ammo capacity reduction is negligible. Boss DPS = Relentless/Whirlwind, Addclear = Tireless/Whirlwind. Recommended MW: Impact.|tags:PvE
+dimwishlist:item=614426548&perks=3666208348,3625355092,2590710093,3913600130
+dimwishlist:item=614426548&perks=3666208348,2349202967,2590710093,3913600130
+dimwishlist:item=614426548&perks=3666208348,269888150,2590710093,3913600130
+dimwishlist:item=614426548&perks=3666208348,52780822,2590710093,3913600130
+dimwishlist:item=614426548&perks=3666208348,599007201,2590710093,3913600130
+dimwishlist:item=614426548&perks=3666208348,3625355092,1749209109,3913600130
+dimwishlist:item=614426548&perks=3666208348,2349202967,1749209109,3913600130
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
+dimwishlist:item=614426548&perks=3666208348,52780822,1749209109,3913600130
+dimwishlist:item=614426548&perks=3666208348,599007201,1749209109,3913600130
+
 // The Forward Path
 //notes:GoogleAssistant (PvP): A leading choice in the first-slot 600rpm Auto Rifle archetype, with solid range and stability. Sunsets in Season 15. Accurized Rounds and DSR are must-haves, with Iron Grip or Tap The Trigger leading the final slot. Recommended MW: Range > Stability > Handling.|tags:PvP
 dimwishlist:item=1690783811&perks=2405638014,3142289711,1359896290,11551321
