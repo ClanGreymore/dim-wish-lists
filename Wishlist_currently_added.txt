@@ -1,4 +1,4 @@
-Currently, we've documented 442 rolls across 24 weapons.
+Currently, we've documented 452 rolls across 25 weapons.
 
 PvP:
 
@@ -27,4 +27,5 @@ Xenoclast IV
 
 PvE:
 Arctic Haze
+Falling Guillotine
 Friction Fire
