@@ -1,4 +1,4 @@
-Currently, we've documented 382 rolls across 22 weapons.
+Currently, we've documented 442 rolls across 24 weapons.
 
 PvP:
 
@@ -11,6 +11,7 @@ Dire Promise
 Eye of Sol
 The Forward Path
 Gnawing Hunger
+Heritage
 Last Perdition
 Long Shadow
 Mindbender's Ambition
@@ -26,3 +27,4 @@ Xenoclast IV
 
 PvE:
 Arctic Haze
+Friction Fire
