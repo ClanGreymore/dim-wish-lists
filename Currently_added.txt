@@ -30,4 +30,5 @@ Arctic Haze
 Falling Guillotine
 Friction Fire
 Gnawing Hunger
+Hailing Confusion
 Succession
