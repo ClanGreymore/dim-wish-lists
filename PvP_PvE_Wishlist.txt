@@ -2,7 +2,7 @@ title:Clan Greymore's PvP/PvE Wishlist
 description:Here's a collection of god/recommended rolls for PvP and PvE activity for the Clan Greymore community. Special thanks to Eekwynox, Pure Phi Cohomology (Halo 3 Rat), NoCo, SirN0ahl0t (How?) and Volux for roll consultation!
 
 // Adored
-//notes:GoogleAssistant (PvP): The Beyond Light replacement for the Beloved, this sniper is very similar to its predecessor - albeit with a slightly higher zoomed scope, and otherwise identical hidden stats. Sunsets in S16. Recommended MW: Range > Handling > Stability.|tags:PvP
+//notes:Koan (PvP): The Beyond Light replacement for the Beloved, this sniper is very similar to its predecessor - albeit with a slightly higher zoomed scope, and otherwise identical hidden stats. Sunsets in S16. Recommended MW: Range > Handling > Stability.|tags:PvP
 dimwishlist:item=4184808992&perks=3250034553,3142289711,2450788523,957782887
 
 // Arctic Haze
@@ -45,7 +45,7 @@ dimwishlist:item=20935540&perks=3250034553,106909392,1820235745,3108830275
 dimwishlist:item=20935540&perks=1482024992,106909392,1820235745,3108830275
 
 // Astral Horizon
-//notes:GoogleAssistant (PvP): Top-tier shotgun, albeit with somewhat limited attachments. Sunsets in Season 14. Unlike others in the meta, it doesn't come with snapshot sights, but more than makes up for this with opening shot. Recommended MW: Range > Handling.|tags:PvP
+//notes:Koan (PvP): Top-tier shotgun, albeit with somewhat limited attachments. Sunsets in Season 14. Unlike others in the meta, it doesn't come with snapshot sights, but more than makes up for this with opening shot. Recommended MW: Range > Handling.|tags:PvP
 dimwishlist:item=1697682876&perks=1047830412,3142289711,706527188,47981717
 dimwishlist:item=1697682876&perks=1482024992,3142289711,706527188,47981717
 dimwishlist:item=1697682876&perks=1332244541,3142289711,706527188,47981717
@@ -60,7 +60,7 @@ dimwishlist:item=1697682876&perks=1482024992,679225683,3161816588,47981717
 dimwishlist:item=1697682876&perks=1332244541,679225683,3161816588,47981717
 
 // Beloved
-//notes:GoogleAssistant (PvP): Previously the go-to sniper, which was sunset in Season 12. God-roll is typically Quickdraw/Snapshot/Range MW. A meta-defining weapon of its time. Recommended MW: Range > Handling > Stability.|tags:PvP
+//notes:Koan (PvP): Previously the go-to sniper, which was sunset in Season 12. God-roll is typically Quickdraw/Snapshot/Range MW. A meta-defining weapon of its time. Recommended MW: Range > Handling > Stability.|tags:PvP
 dimwishlist:item=4190932264&perks=3250034553,3142289711,957782887,706527188
 dimwishlist:item=4190932264&perks=1482024992,3142289711,957782887,706527188
 dimwishlist:item=4190932264&perks=3250034553,3142289711,3513791699,706527188
@@ -75,7 +75,7 @@ dimwishlist:item=4190932264&perks=3250034553,3142289711,3513791699,588594999
 dimwishlist:item=4190932264&perks=1482024992,3142289711,3513791699,588594999
 
 // Cold Denial
-//notes:GoogleAssistant (PvP): A standout weapon in the recently buffed Pulse Rifle archetype. Sunsets in Season 15. Very strong optimal TtK (0.67s) in the right hands, with the right rolls. Killing Wind is a must. Only red flag is it's somewhat limited (~30m) range. Recommended MW: Range > Stability > Handling.|tags:PvP
+//notes:Koan (PvP): A standout weapon in the recently buffed Pulse Rifle archetype. Sunsets in Season 15. Very strong optimal TtK (0.67s) in the right hands, with the right rolls. Killing Wind is a must. Only red flag is it's somewhat limited (~30m) range. Recommended MW: Range > Stability > Handling.|tags:PvP
 dimwishlist:item=1216130969&perks=202670084,1885400500,2450788523,460017080
 dimwishlist:item=1216130969&perks=3250034553,1885400500,2450788523,460017080
 dimwishlist:item=1216130969&perks=839105230,1885400500,2450788523,460017080
@@ -123,7 +123,7 @@ dimwishlist:item=1216130969&perks=1482024992,1968497646,2450788523,699525795
 dimwishlist:item=1216130969&perks=1467527085,1968497646,2450788523,699525795
 
 // Death Adder
-//notes:GoogleAssistant (PvP): The go-to replacement for The Recluse from Season 12 onward. Overshadowed somewhat by 600rpm Auto Rifles, but by no means a poor choice. Lots of solid perk options in the fourth slot make this a tricky one to roll with. Recommended MW: Range > Stability > Handling.|tags:PvP
+//notes:Koan (PvP): The go-to replacement for The Recluse from Season 12 onward. Overshadowed somewhat by 600rpm Auto Rifles, but by no means a poor choice. Lots of solid perk options in the fourth slot make this a tricky one to roll with. Recommended MW: Range > Stability > Handling.|tags:PvP
 dimwishlist:item=2742490609&perks=4090651448,3142289711,1359896290,706527188
 dimwishlist:item=2742490609&perks=3250034553,3142289711,1359896290,706527188
 dimwishlist:item=2742490609&perks=1482024992,3142289711,1359896290,706527188
@@ -138,7 +138,7 @@ dimwishlist:item=2742490609&perks=3250034553,3142289711,1359896290,699525795
 dimwishlist:item=2742490609&perks=1482024992,3142289711,1359896290,699525795
 
 // Dire Promise
-//notes:GoogleAssistant (PvP): Top-tier hand cannon that should be in any PvP player's vault - a great replacement for Spare Rations beyond Season 12 (viable until Season 14). Steadyhand HCS is the ideal general roll here, but Hitmark HCS is a solid option when combined with Ricochet Rounds. Recommended MW: Stability > Range > Handling.|tags:PvP
+//notes:Koan (PvP): Top-tier hand cannon that should be in any PvP player's vault - a great replacement for Spare Rations beyond Season 12 (viable until Season 14). Steadyhand HCS is the ideal general roll here, but Hitmark HCS is a solid option when combined with Ricochet Rounds. Recommended MW: Stability > Range > Handling.|tags:PvP
 dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770
 dimwishlist:item=2742838701&perks=1926090093,1885400500,47981717,2846385770
 dimwishlist:item=2742838701&perks=1926090095,1968497646,47981717,2846385770
@@ -153,7 +153,7 @@ dimwishlist:item=2742838701&perks=1926090095,1561002382,957782887,2846385770
 dimwishlist:item=2742838701&perks=1926090093,1561002382,957782887,2846385770
 
 // Eye of Sol
-//notes:GoogleAssistant (PvP): The only 90rpm adaptive-frame sniper that can OHK guardians in their super with Vorpal Weapon and without Boxed Breathing. Very similar stats to Adored. Handling MW is ideal to make up for lack of quickdraw. Recommended MW: Handling > Range.|tags:PvP
+//notes:Koan (PvP): The only 90rpm adaptive-frame sniper that can OHK guardians in their super with Vorpal Weapon and without Boxed Breathing. Very similar stats to Adored. Handling MW is ideal to make up for lack of quickdraw. Recommended MW: Handling > Range.|tags:PvP
 dimwishlist:item=3164743584&perks=3250034553,3142289711,957782887,47981717
 dimwishlist:item=3164743584&perks=4090651448,3142289711,957782887,47981717
 dimwishlist:item=3164743584&perks=1482024992,3142289711,957782887,47981717
@@ -166,7 +166,7 @@ dimwishlist:item=3164743584&perks=1840239774,3142289711,957782887,1546637391
 dimwishlist:item=3164743584&perks=839105230,3142289711,957782887,1546637391
 
 // Falling Guillotine
-//notes:GoogleAssistant (PvE): The one-sword-fits-all. One of the most solid PvE DPS options in the game; a long-standing favourite for many activities. Jagged edge is a must, as ammo capacity reduction is negligible. Boss DPS = Relentless/Whirlwind, Addclear = Tireless/Whirlwind. Recommended MW: Impact.|tags:PvE
+//notes:Koan (PvE): The one-sword-fits-all. One of the most solid PvE DPS options in the game; a long-standing favourite for many activities. Jagged edge is a must, as ammo capacity reduction is negligible. Boss DPS = Relentless/Whirlwind, Addclear = Tireless/Whirlwind. Recommended MW: Impact.|tags:PvE
 dimwishlist:item=614426548&perks=3666208348,3625355092,2590710093,3913600130
 dimwishlist:item=614426548&perks=3666208348,2349202967,2590710093,3913600130
 dimwishlist:item=614426548&perks=3666208348,269888150,2590710093,3913600130
@@ -179,7 +179,7 @@ dimwishlist:item=614426548&perks=3666208348,52780822,1749209109,3913600130
 dimwishlist:item=614426548&perks=3666208348,599007201,1749209109,3913600130
 
 // The Forward Path
-//notes:GoogleAssistant (PvP): A leading choice in the first-slot 600rpm Auto Rifle archetype, with solid range and stability. Sunsets in Season 15. Accurized Rounds and DSR are must-haves, with Iron Grip or Tap The Trigger leading the final slot. Recommended MW: Range > Stability > Handling.|tags:PvP
+//notes:Koan (PvP): A leading choice in the first-slot 600rpm Auto Rifle archetype, with solid range and stability. Sunsets in Season 15. Accurized Rounds and DSR are must-haves, with Iron Grip or Tap The Trigger leading the final slot. Recommended MW: Range > Stability > Handling.|tags:PvP
 dimwishlist:item=1690783811&perks=2405638014,3142289711,1359896290,11551321
 dimwishlist:item=1690783811&perks=2405638015,3142289711,1359896290,11551321
 dimwishlist:item=1690783811&perks=2405638014,3142289711,1359896290,1890422124
@@ -188,7 +188,7 @@ dimwishlist:item=1690783811&perks=2405638014,3142289711,1359896290,699525795
 dimwishlist:item=1690783811&perks=2405638015,3142289711,1359896290,699525795
 
 // Friction Fire
-//notes:GoogleAssistant (PvE): Introduced in S12, this SMG is a great first-slot addclear weapon for PvE, with a solid perk pool including the new Wellspring perk. Nice and stable, doesn't need a 'perfect' roll to perform. Recommended MW: Range > Stability > Reload Speed.|tags:PvE
+//notes:Koan (PvE): Introduced in S12, this SMG is a great first-slot addclear weapon for PvE, with a solid perk pool including the new Wellspring perk. Nice and stable, doesn't need a 'perfect' roll to perform. Recommended MW: Range > Stability > Reload Speed.|tags:PvE
 dimwishlist:item=1513993763&perks=3250034553,3142289711,2450788523,3425386926
 dimwishlist:item=1513993763&perks=1482024992,3142289711,2450788523,3425386926
 dimwishlist:item=1513993763&perks=4090651448,3142289711,2450788523,3425386926
@@ -239,7 +239,7 @@ dimwishlist:item=1513993763&perks=4090651448,106909392,2387244414,3108830275
 dimwishlist:item=1513993763&perks=3661387068,106909392,2387244414,3108830275
 
 // Gnawing Hunger
-//notes:GoogleAssistant (PvP): Current 600rpm auto meta along with The Summoner - was the most widely used PvP weapon at the end of S11. Only run this with Rampage if you're top-tier/aggressive and can chain kills, fast. Recommended MW: Range > Stability.|tags:PvP
+//notes:Koan (PvP): Current 600rpm auto meta along with The Summoner - was the most widely used PvP weapon at the end of S11. Only run this with Rampage if you're top-tier/aggressive and can chain kills, fast. Recommended MW: Range > Stability.|tags:PvP
 dimwishlist:item=821154603&perks=1467527085,3142289711,1890422124,1015611457
 dimwishlist:item=821154603&perks=3250034553,3142289711,1890422124,1015611457
 dimwishlist:item=821154603&perks=1482024992,3142289711,1890422124,1015611457
@@ -248,7 +248,7 @@ dimwishlist:item=821154603&perks=3250034553,3142289711,1890422124,3425386926
 dimwishlist:item=821154603&perks=1482024992,3142289711,1890422124,3425386926
 
 // Gnawing Hunger
-//notes:GoogleAssistant (PvE): Highly viable 600rpm auto with a solid perk pool for PvE use. Enough range and stability to feel a little bit like a long-range SMG. Use of Zen Moment on PC is somewhat contested, but the only other viable perk is Subsistence, which is a 'love it or hate it' perk. Recommended MW: Range > Stability > Reload Speed.|tags:PvE
+//notes:Koan (PvE): Highly viable 600rpm auto with a solid perk pool for PvE use. Enough range and stability to feel a little bit like a long-range SMG. Use of Zen Moment on PC is somewhat contested, but the only other viable perk is Subsistence, which is a 'love it or hate it' perk. Recommended MW: Range > Stability > Reload Speed.|tags:PvE
 dimwishlist:item=821154603&perks=839105230,3177308360,2387244414,2458213969
 dimwishlist:item=821154603&perks=3661387068,3177308360,2387244414,2458213969
 dimwishlist:item=821154603&perks=4090651448,3177308360,2387244414,2458213969
@@ -386,7 +386,7 @@ dimwishlist:item=2870169846&perks=3661387068,1561002382,1168162263,3108830275
 dimwishlist:item=2870169846&perks=3250034553,1561002382,1168162263,3108830275
 
 // Heritage
-//notes:GoogleAssistant (PvP): First-slot slug shotgun from the DSC raid. A large reason for it's greatness is the versatility allowed by having a non-exotic slug in first slot. Semi-decent perk pool for PvP, has enough range on it to kill efficiently. More versatile than Chaperone. Recommended MW: Range > Handling > Reload Speed.|tags:PvP
+//notes:Koan (PvP): First-slot slug shotgun from the DSC raid. A large reason for it's greatness is the versatility allowed by having a non-exotic slug in first slot. Semi-decent perk pool for PvP, has enough range on it to kill efficiently. More versatile than Chaperone. Recommended MW: Range > Handling > Reload Speed.|tags:PvP
 dimwishlist:item=4248569242&perks=4090651448,3142289711,3161816588,957782887
 dimwishlist:item=4248569242&perks=3250034553,3142289711,3161816588,957782887
 dimwishlist:item=4248569242&perks=1482024992,3142289711,3161816588,957782887
@@ -401,7 +401,7 @@ dimwishlist:item=4248569242&perks=3250034553,679225683,1866048759,957782887
 dimwishlist:item=4248569242&perks=1482024992,679225683,1866048759,957782887
 
 // Last Perdition
-//notes:GoogleAssistant (PvP): An interesting pule rifle, highly competitive in the S12 meta. It's not the strongest of its archetype, but makes up for this with an outstanding perk pool and SIX highly viable scopes for PvP. Easy to get a solid roll. Recommended MW: Range > Stability > Handling.|tags:PvP
+//notes:Koan (PvP): An interesting pule rifle, highly competitive in the S12 meta. It's not the strongest of its archetype, but makes up for this with an outstanding perk pool and SIX highly viable scopes for PvP. Easy to get a solid roll. Recommended MW: Range > Stability > Handling.|tags:PvP
 dimwishlist:item=188882152&perks=360593483,3142289711,2846385770,957782887
 dimwishlist:item=188882152&perks=360593482,3142289711,2846385770,957782887
 dimwishlist:item=188882152&perks=360593481,3142289711,2846385770,957782887
@@ -440,13 +440,13 @@ dimwishlist:item=188882152&perks=3151536500,3142289711,588594999,460017080
 dimwishlist:item=188882152&perks=3151536503,3142289711,588594999,460017080
 
 // Long Shadow
-//notes:GoogleAssistant (PvP): A somewhat lacking Sniper in the current meta, albeit with a decent available selection of perks and a lower zoom than some. Poor aim assistance compared to other options. Don't go out of your way to use this one. Recommended MW: Range > Handling > Stability.|tags:PvP
+//notes:Koan (PvP): A somewhat lacking Sniper in the current meta, albeit with a decent available selection of perks and a lower zoom than some. Poor aim assistance compared to other options. Don't go out of your way to use this one. Recommended MW: Range > Handling > Stability.|tags:PvP
 dimwishlist:item=3745990145&perks=893526894,3142289711,957782887,588594999
 dimwishlist:item=3745990145&perks=893526895,3142289711,957782887,588594999
 dimwishlist:item=3745990145&perks=893526892,3142289711,957782887,588594999
 
 // Mindbender's Ambition
-//notes:GoogleAssistant (PvP): Yet another shotgun defining the current meta, although it sunsets at 1060 power (Season 12). Ideal barrel is typically Full Choke, giving it a 9m efficient kill range. Similar to others in this archetype, quickdraw/snapshot are the go-to, with slideshot available if that's your thing. Recommended MW: Range > Handling.|tags:PvP
+//notes:Koan (PvP): Yet another shotgun defining the current meta, although it sunsets at 1060 power (Season 12). Ideal barrel is typically Full Choke, giving it a 9m efficient kill range. Similar to others in this archetype, quickdraw/snapshot are the go-to, with slideshot available if that's your thing. Recommended MW: Range > Handling.|tags:PvP
 dimwishlist:item=4117693024&perks=1482024992,3142289711,3161816588,706527188
 dimwishlist:item=4117693024&perks=1332244541,3142289711,3161816588,706527188
 dimwishlist:item=4117693024&perks=1047830412,3142289711,3161816588,706527188
@@ -455,7 +455,7 @@ dimwishlist:item=4117693024&perks=1332244541,3142289711,957782887,706527188
 dimwishlist:item=4117693024&perks=1047830412,3142289711,957782887,706527188
 
 // The Old Fashioned
-//notes:GoogleAssistant (PvP): Solid hand cannon with some pretty cool options, although it's somewhat eclipsed by Dire Promise. Explosive Payload is good fun for flinching everyone to the moon. Recommended MW: Range > Stability > Handling.|tags:PvP
+//notes:Koan (PvP): Solid hand cannon with some pretty cool options, although it's somewhat eclipsed by Dire Promise. Explosive Payload is good fun for flinching everyone to the moon. Recommended MW: Range > Stability > Handling.|tags:PvP
 dimwishlist:item=3569802112&perks=1926090095,3142289711,706527188,1015611457
 dimwishlist:item=3569802112&perks=1926090094,3142289711,706527188,1015611457
 dimwishlist:item=3569802112&perks=1926090094,3142289711,706527188,1015611457
@@ -467,7 +467,7 @@ dimwishlist:item=3569802112&perks=1926090094,3142289711,706527188,3038247973
 dimwishlist:item=3569802112&perks=1926090094,3142289711,706527188,3038247973
 
 // Omniscient Eye
-//notes:GoogleAssistant (PvP): High aim-assist sniper in seasons where it's hard to come by. Low-zoom easy to use scope, high RoF for solid follow-ups. Slow to farm from GoS, but small perk pool makes this easy enough to obtain. Recommended MW: Range, Handling, Stability.|tags:PvP
+//notes:Koan (PvP): High aim-assist sniper in seasons where it's hard to come by. Low-zoom easy to use scope, high RoF for solid follow-ups. Slow to farm from GoS, but small perk pool makes this easy enough to obtain. Recommended MW: Range, Handling, Stability.|tags:PvP
 dimwishlist:item=3454326177&perks=3250034553,3142289711,3513791699,957782887
 dimwishlist:item=3454326177&perks=1482024992,3142289711,3513791699,957782887
 dimwishlist:item=3454326177&perks=4090651448,3142289711,3513791699,957782887
@@ -476,12 +476,12 @@ dimwishlist:item=3454326177&perks=1482024992,3142289711,2866798147,957782887
 dimwishlist:item=3454326177&perks=4090651448,3142289711,2866798147,957782887
 
 // Seventh Seraph CQC-12
-//notes:GoogleAssistant (PvP): An exciting PvP shotgun viable through until the end of Season 13, particularly swift due to its lightweight frame - even moreso with quickdraw. Slideshot highly viable if that's your jam. Recommended MW: Range > Handling.|tags:pvp
+//notes:Koan (PvP): An exciting PvP shotgun viable through until the end of Season 13, particularly swift due to its lightweight frame - even moreso with quickdraw. Slideshot highly viable if that's your jam. Recommended MW: Range > Handling.|tags:pvp
 dimwishlist:item=1821724780&perks=1332244541,3142289711,706527188,957782887
 dimwishlist:item=1821724780&perks=1332244541,3142289711,3161816588,957782887
 
 // Spare Rations
-//notes:GoogleAssistant (PvP): A meta-defining 150rpm hand cannon, along with Dire Promise. Ideal with Hammer-Forged Rifling and Ricochet Rounds. Wide variety of possible rolls makes it a great all-rounder. Recommended MW: Stability > Range > Handling.|tags:PvP
+//notes:Koan (PvP): A meta-defining 150rpm hand cannon, along with Dire Promise. Ideal with Hammer-Forged Rifling and Ricochet Rounds. Wide variety of possible rolls makes it a great all-rounder. Recommended MW: Stability > Range > Handling.|tags:PvP
 dimwishlist:item=3116356268&perks=3250034553,1885400500,247725512,1015611457
 dimwishlist:item=3116356268&perks=1482024992,1885400500,247725512,1015611457
 dimwishlist:item=3116356268&perks=3250034553,1561002382,247725512,1015611457
@@ -500,7 +500,7 @@ dimwishlist:item=3116356268&perks=3250034553,1561002382,957782887,2846385770
 dimwishlist:item=3116356268&perks=1482024992,1561002382,957782887,2846385770
 
 // Stars in Shadow
-//notes:GoogleAssistant (PvP): Beyond Light pulse, whose archetype is sitting comfortably in the S12 meta. Not top of the range, and reloads slowly without Outlaw, but a great non-exotic pulse rifle nonetheless, with a wide-reaching viable perk pool for PvP. Recommended MW: Stability, Range, Reload Speed.|tags:PvP
+//notes:Koan (PvP): Beyond Light pulse, whose archetype is sitting comfortably in the S12 meta. Not top of the range, and reloads slowly without Outlaw, but a great non-exotic pulse rifle nonetheless, with a wide-reaching viable perk pool for PvP. Recommended MW: Stability, Range, Reload Speed.|tags:PvP
 dimwishlist:item=2050789284&perks=1467527085,3142289711,2450788523,1015611457
 dimwishlist:item=2050789284&perks=1482024992,3142289711,2450788523,1015611457
 dimwishlist:item=2050789284&perks=3250034553,3142289711,2450788523,1015611457
@@ -611,7 +611,7 @@ dimwishlist:item=2050789284&perks=3250034553,106909392,1168162263,957782887
 dimwishlist:item=2050789284&perks=1392496348,106909392,1168162263,957782887
 
 // Succession
-//notes:GoogleAssistant (PvE): Whilst lack of target acquisition and a high-zoom scope make this gun a poor choice for PvP, it excels in high damage output at serious range in PvE. As a DSC raid gun, can uniquely roll with Reconstruction. Recommended MW: Range > Handling > Reload Speed.|tags:PvE
+//notes:Koan (PvE): Whilst lack of target acquisition and a high-zoom scope make this gun a poor choice for PvP, it excels in high damage output at serious range in PvE. As a DSC raid gun, can uniquely roll with Reconstruction. Recommended MW: Range > Handling > Reload Speed.|tags:PvE
 dimwishlist:item=2990047042&perks=4090651448,3142289711,1523832109,1546637391
 dimwishlist:item=2990047042&perks=839105230,3142289711,1523832109,1546637391
 dimwishlist:item=2990047042&perks=1840239774,3142289711,1523832109,1546637391
@@ -674,7 +674,7 @@ dimwishlist:item=2990047042&perks=3250034553,2420895100,2450788523,469285294
 dimwishlist:item=2990047042&perks=1467527085,2420895100,2450788523,469285294
 
 // The Summoner
-//notes:GoogleAssistant (PvP): Arguably the peak of the 600rpm Auto Rifle meta, sunsets in Season 14. Has some unbelievable roll possibilities, with a wide array of choice. Like Gnawing Hunger, only bother with Rampage if you're aggressive or top-tier. Oft-considered god roll is Extended Barrel/Ricochet Rounds/DSR/Rangefinder. Get almost any roll on this gun, and don't look back. Recommended MW: Range > Stability.|tags:PvP
+//notes:Koan (PvP): Arguably the peak of the 600rpm Auto Rifle meta, sunsets in Season 14. Has some unbelievable roll possibilities, with a wide array of choice. Like Gnawing Hunger, only bother with Rampage if you're aggressive or top-tier. Oft-considered god roll is Extended Barrel/Ricochet Rounds/DSR/Rangefinder. Get almost any roll on this gun, and don't look back. Recommended MW: Range > Stability.|tags:PvP
 dimwishlist:item=1907698332&perks=3250034553,1885400500,1359896290,2846385770
 dimwishlist:item=1907698332&perks=1482024992,1885400500,1359896290,2846385770
 dimwishlist:item=1907698332&perks=1467527085,1885400500,1359896290,2846385770
@@ -701,7 +701,7 @@ dimwishlist:item=1907698332&perks=1482024992,1561002382,588594999,3425386926
 dimwishlist:item=1907698332&perks=1467527085,1561002382,588594999,3425386926
 
 // The Supremacy
-//notes:GoogleAssistant (PvP): One of the best options currently available for a confident sniper, alongside Beloved. Sunsets in Season 15 at 1360 power. Ricochet rounds are ideal, with snapshot as a must-have. Note that no perk combination will allow for one-hit body shots. Limited roll options compared to many weapons, but allows for an easier time getting a god-roll. Recommended MW: Range > Handling > Stability.|tags:PvP
+//notes:Koan (PvP): One of the best options currently available for a confident sniper, alongside Beloved. Sunsets in Season 15 at 1360 power. Ricochet rounds are ideal, with snapshot as a must-have. Note that no perk combination will allow for one-hit body shots. Limited roll options compared to many weapons, but allows for an easier time getting a god-roll. Recommended MW: Range > Handling > Stability.|tags:PvP
 dimwishlist:item=686951703&perks=4090651448,1885400500,957782887,247725512
 dimwishlist:item=686951703&perks=1482024992,1885400500,957782887,247725512
 dimwishlist:item=686951703&perks=3250034553,1885400500,957782887,247725512
@@ -722,7 +722,7 @@ dimwishlist:item=686951703&perks=1482024992,1561002382,957782887,1015611457
 dimwishlist:item=686951703&perks=3250034553,1561002382,957782887,1015611457
 
 // True Prophecy
-//notes:GoogleAssistant (PvP): A somewhat forgotten HC that's had a rise in popularity with the sandbox changes in S12 - a contender for king of flinching. Absolute screamer if you can get used to the very strong recoil. Recommended MW: Stability > Range > Handling.|tags:PvP
+//notes:Koan (PvP): A somewhat forgotten HC that's had a rise in popularity with the sandbox changes in S12 - a contender for king of flinching. Absolute screamer if you can get used to the very strong recoil. Recommended MW: Stability > Range > Handling.|tags:PvP
 dimwishlist:item=2742838700&perks=1926090093,3142289711,2846385770,3038247973
 dimwishlist:item=2742838700&perks=1926090095,3142289711,2846385770,3038247973
 dimwishlist:item=2742838700&perks=1926090094,3142289711,2846385770,3038247973
