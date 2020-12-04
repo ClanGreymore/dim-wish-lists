@@ -1,4 +1,4 @@
-Currently, we've documented 604 rolls across 28 weapon entries.
+Currently, we've documented 676 rolls across 29 weapon entries.
 
 PvP:
 
@@ -23,6 +23,7 @@ Stars in Shadow
 The Summoner
 The Supremacy
 True Prophecy
+Trustee
 Xenoclast IV
 
 PvE:
