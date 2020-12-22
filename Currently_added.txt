@@ -1,4 +1,4 @@
-Currently, we've documented 910 rolls across 34 weapon entries.
+Currently, we've documented 910 rolls across 36 weapon entries.
 
 PvP:
 
@@ -28,12 +28,14 @@ Trustee
 Xenoclast IV
 
 PvE:
+Ancient Gospel
 Arctic Haze
 Chattering Bone
 Falling Guillotine
 Friction Fire
 Gnawing Hunger
 Hailing Confusion
+IKELOS_HC_v1.0.2
 Nation of Beasts
 Reckless Oracle
 Sacred Provenance
