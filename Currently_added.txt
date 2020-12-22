@@ -1,4 +1,4 @@
-Currently, we've documented 1156 rolls across 38 weapon entries.
+Currently, we've documented 1264 rolls across 39 weapon entries.
 
 PvP:
 
@@ -36,6 +36,7 @@ Falling Guillotine
 Friction Fire
 Gnawing Hunger
 Hailing Confusion
+High Albedo
 IKELOS_HC_v1.0.2
 Nation of Beasts
 Reckless Oracle
