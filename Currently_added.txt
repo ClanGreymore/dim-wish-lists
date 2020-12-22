@@ -1,4 +1,4 @@
-Currently, we've documented 1036 rolls across 37 weapon entries.
+Currently, we've documented 1156 rolls across 38 weapon entries.
 
 PvP:
 
@@ -41,3 +41,4 @@ Nation of Beasts
 Reckless Oracle
 Sacred Provenance
 Succession
+Trustee
