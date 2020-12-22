@@ -1,4 +1,4 @@
-Currently, we've documented 1000 rolls across 36 weapon entries.
+Currently, we've documented 1036 rolls across 37 weapon entries.
 
 PvP:
 
@@ -31,6 +31,7 @@ PvE:
 Ancient Gospel
 Arctic Haze
 Chattering Bone
+Deafening Whisper
 Falling Guillotine
 Friction Fire
 Gnawing Hunger
