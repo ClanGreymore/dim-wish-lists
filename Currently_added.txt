@@ -1,4 +1,4 @@
-Currently, we've documented 721 rolls across 30 weapon entries.
+Currently, we've documented 811 rolls across 31 weapon entries.
 
 PvP:
 
@@ -33,4 +33,5 @@ Falling Guillotine
 Friction Fire
 Gnawing Hunger
 Hailing Confusion
+Sacred Provenance
 Succession
