@@ -577,7 +577,7 @@ dimwishlist:item=654370424&perks=4090651448,106909392,1168162263,3425386926
 dimwishlist:item=654370424&perks=1467527085,106909392,1168162263,3425386926
 dimwishlist:item=654370424&perks=1482024992,106909392,1168162263,3425386926
 
-// The Old Fashioned
+// The Old Fashioned 
 //notes:Koan (PvP): Solid hand cannon with some pretty cool options, although it's somewhat eclipsed by Dire Promise. Explosive Payload is good fun for flinching everyone to the moon. Recommended MW: Range > Stability > Handling.|tags:PvP
 dimwishlist:item=3569802112&perks=1926090095,3142289711,706527188,1015611457
 dimwishlist:item=3569802112&perks=1926090094,3142289711,706527188,1015611457
