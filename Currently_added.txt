@@ -1,4 +1,4 @@
-Currently, we've documented 1264 rolls across 39 weapon entries.
+Currently, we've documented 1264 rolls across 40 weapon entries.
 
 PvP:
 
@@ -27,7 +27,9 @@ True Prophecy
 Trustee
 Xenoclast IV
 
+
 PvE:
+
 Ancient Gospel
 Arctic Haze
 Chattering Bone
@@ -39,6 +41,7 @@ Hailing Confusion
 High Albedo
 IKELOS_HC_v1.0.2
 Nation of Beasts
+Posterity
 Reckless Oracle
 Sacred Provenance
 Succession
